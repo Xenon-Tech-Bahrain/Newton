@@ -10,6 +10,8 @@ Commercial use needs a paid Newton plan — see [Licence](#licence).
 - Hosted product: <https://newtonbh.vercel.app>
 - Company: <https://xenonbh.vercel.app>
 - **Install guide: [INSTALL.md](INSTALL.md)**
+- Built by Xenon Tech with **OpenCode**, **Devin**, **Freebuff**, **DeepSeek** and
+  **GLM** — see [Contributors](#contributors).
 
 ## What this repository is
 
@@ -75,6 +77,23 @@ chats) are environment-tunable and documented in the file.
   burn the budget.
 - Conversations are deleted, not anonymised, when an account is deleted.
 - Secrets are read only by server code.
+
+## Contributors
+
+Newton is built by Xenon Tech with AI coding agents and models working under
+human direction. Full roles are in [CONTRIBUTORS.md](CONTRIBUTORS.md).
+
+| Contributor | Role |
+| --- | --- |
+| **Xenon Tech** (Mohammed Jaber) | Author, product design and direction, review and release owner. |
+| **OpenCode** | AI coding agent: implementation, refactoring, tests and documentation. |
+| **Devin** | AI software engineer: implementation and maintenance. |
+| **Freebuff** | AI coding assistant: implementation tasks. |
+| **DeepSeek** (DeepSeek Harness) | Model behind agent sessions: implementation and debugging. |
+| **GLM** | Model used for implementation and review passes. |
+
+The AI entries are tools, not legal persons. They wrote code on Xenon Tech's
+instruction, and Xenon Tech reviewed and owns everything that ships.
 
 ## Contributing
 
